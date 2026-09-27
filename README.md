@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshini B</h1>
 
 <h3 align="center">
-Frontend & Full Stack Developer | React • TypeScript • Node.js
+Software Development Engineer (SDE)
 </h3>
 
 <p align="center">
-Building scalable web applications and continuously learning software architecture, system design, and modern development practices.
+Building scalable web applications using React, TypeScript, Node.js, and PostgreSQL.
 </p>
 
 ---
