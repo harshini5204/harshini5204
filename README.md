@@ -1,27 +1,26 @@
 <h1 align="center">Hi 👋, I'm Harshini B</h1>
 
 <h3 align="center">
-Software Development Engineer (SDE)
+Software Development Engineer | React • TypeScript • Node.js
 </h3>
 
 <p align="center">
-Building scalable web applications using React, TypeScript, Node.js, and PostgreSQL.
+Building modern web applications with a focus on scalable frontend and full-stack development.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💼 Associate Software Development Engineer at QuarkSek Technologies
-- 🎓 Final Year B.Tech – Artificial Intelligence & Data Science
-- 🌱 Currently learning:
-  - Advanced React Patterns
-  - System Design
-  - Full Stack Development
-  - Data Structures & Algorithms
-- 🚀 Working on a Real-Time ECG Monitoring Platform
-- 🏆 Hackathon Winner & Technical Paper Presenter
-- 💡 Interested in Frontend Engineering, Full Stack Development, and Software Architecture
+- 💼 Software Development Engineer at QuarkSek Technologies
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- ⚛️ Experienced in building web applications using React and TypeScript
+- 🖥️ Working with Node.js, Express.js, PostgreSQL and Prisma
+- 🏗️ Interested in scalable application architecture and system design
+- 🚀 Currently strengthening my skills in JavaScript, React, DSA and system design
+- 🫀 Building a real-time ECG Monitoring Platform as a personal engineering project
+- 🏆 KCET Build-A-Thon 2024 Winner
+- 📄 Presented a research paper on Face-Swap Based Fake Videos
 - 📫 Reach me at: **bharshini2004@gmail.com**
 
 ---
