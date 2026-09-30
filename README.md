@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshini B</h1>
 
 <h3 align="center">
-Software Development Engineer | React • TypeScript • Node.js
+Software Development Engineer
 </h3>
 
 <p align="center">
